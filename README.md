@@ -4,7 +4,6 @@
 My name's Avinash and welcome to my GitHub! <br>
 You can check out some of my writing here: https://avinashkratnam.medium.com/ <br>
 Here's my Linkedin: www.linkedin.com/in/avinashratnam <br>
-And here's my portfolio: https://portfolio-aviratnam.vercel.app/ <br/>
 
 Ciao!!
 
